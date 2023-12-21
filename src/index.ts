@@ -1,5 +1,5 @@
 function config() {
-    return "initial config";
+    console.log("initial config");
 }
 
 config();
